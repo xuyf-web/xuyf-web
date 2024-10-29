@@ -25,10 +25,23 @@ https://shields.io/badges
 ![Static Badge](https://img.shields.io/badge/Software_&_App-PowerUser-red)  ![Static Badge](https://img.shields.io/badge/Tools-Enthusiast-red)
 ![Static Badge](https://img.shields.io/badge/Atmospheric-Sciences-blue)  ![Static Badge](https://img.shields.io/badge/CMAQ-blue)  ![Static Badge](https://img.shields.io/badge/-WRF-blue)
 ![Static Badge](https://img.shields.io/badge/-Python-blue)  ![Static Badge](https://img.shields.io/badge/-VS_Code-orange)  ![Static Badge](https://img.shields.io/badge/-Zotero-orange)  ![Static Badge](https://img.shields.io/badge/-Obsidian-orange)
+<!-- ORCID -->
+<a
+id="cy-effective-orcid-url"
+class="underline"
+    href="https://orcid.org/0009-0001-8081-5984"
+    target="orcid.widget"
+    rel="me noopener noreferrer"
+    style="vertical-align: top">
+    <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+    https://orcid.org/0009-0001-8081-5984
+</a>
 
-
-- 🔭 I’m currently working on ***Causes and Control Strategies of Urban Air Pollution***.
-- 🌱 I’m currently learning ***Python and Machine Learning***.
+- 🔭 I’m currently working on ***New Particle Formation***.
+- 🌱 I’m currently learning ***WRF-Chem and Python***.
 - 📫 How to reach me: xuyf@smail.nju.edu.cn
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iphisxu&show_icons=true&theme=ambient_gradient)
