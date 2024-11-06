@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Iphisxu/Iphisxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xuyf-web/xuyf-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,9 +23,10 @@ https://shields.io/badges
  -->
 
 ![Static Badge](https://img.shields.io/badge/Software_&_App-PowerUser-red)  ![Static Badge](https://img.shields.io/badge/Tools-Enthusiast-red)
-![Static Badge](https://img.shields.io/badge/Atmospheric-Sciences-blue)  ![Static Badge](https://img.shields.io/badge/CMAQ-blue)  ![Static Badge](https://img.shields.io/badge/-WRF-blue)
+![Static Badge](https://img.shields.io/badge/Atmospheric-Sciences-blue)  ![Static Badge](https://img.shields.io/badge/CMAQ-blue)  ![Static Badge](https://img.shields.io/badge/WRF-Chem-blue)
 ![Static Badge](https://img.shields.io/badge/-Python-blue)  ![Static Badge](https://img.shields.io/badge/-VS_Code-orange)  ![Static Badge](https://img.shields.io/badge/-Zotero-orange)  ![Static Badge](https://img.shields.io/badge/-Obsidian-orange)
 <!-- ORCID -->
+My ORCID
 <a
 id="cy-effective-orcid-url"
 class="underline"
@@ -40,11 +41,11 @@ class="underline"
     https://orcid.org/0009-0001-8081-5984
 </a>
 
-- 🔭 I’m currently working on ***New Particle Formation***.
+- 🔭 I’m currently working on ***New Particle Formation and Ozone Pollution***.
 - 🌱 I’m currently learning ***WRF-Chem and Python***.
 - 📫 How to reach me: xuyf@smail.nju.edu.cn
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iphisxu&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=ambient_gradient)
 
 # 🚩 里程碑 Milestones
 <!-- 
