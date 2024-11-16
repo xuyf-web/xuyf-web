@@ -22,30 +22,64 @@ Here are some ideas to get you started:
 https://shields.io/badges
  -->
 
-![Static Badge](https://img.shields.io/badge/Software_&_App-PowerUser-red)  ![Static Badge](https://img.shields.io/badge/Tools-Enthusiast-red)
-![Static Badge](https://img.shields.io/badge/Atmospheric-Sciences-blue)  ![Static Badge](https://img.shields.io/badge/CMAQ-blue)  ![Static Badge](https://img.shields.io/badge/WRF-Chem-blue)
-![Static Badge](https://img.shields.io/badge/-Python-blue)  ![Static Badge](https://img.shields.io/badge/-VS_Code-orange)  ![Static Badge](https://img.shields.io/badge/-Zotero-orange)  ![Static Badge](https://img.shields.io/badge/-Obsidian-orange)
+<p align = "center">
+    <img src="https://wakatime.com/badge/user/018c774b-c902-4ca7-ade8-ee572ad126a7.svg?style=plastic"/>
+    <img src="https://komarev.com/ghpvc/?username=xuyf-web&color=orange&style=plastic"/>
+</p>
+<p align = "center">
+    <img src="https://img.shields.io/badge/Software_&_App-PowerUser-red"/>
+    <img src="https://img.shields.io/badge/Tools-Enthusiast-red"/>
+    <img src="https://img.shields.io/badge/-Python-blue"/>
+    <img src="https://img.shields.io/badge/-VS_Code-orange"/>
+    <img src="https://img.shields.io/badge/-Zotero-orange"/>
+    <img src="https://img.shields.io/badge/-Obsidian-orange"/>
+</p>
+<p align = "center">
+    <img src="https://img.shields.io/badge/Atmospheric-Sciences-blue"/>
+    <img src="https://img.shields.io/badge/Chemical_Transport_Models-WRF_Chem-blue"/>
+    <img src="https://img.shields.io/badge/Chemical_Transport_Models-CMAQ-blue"/>
+</p>
+
 <!-- ORCID -->
 My ORCID
-<a
-id="cy-effective-orcid-url"
-class="underline"
-    href="https://orcid.org/0009-0001-8081-5984"
-    target="orcid.widget"
-    rel="me noopener noreferrer"
-    style="vertical-align: top">
-    <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/>
-    https://orcid.org/0009-0001-8081-5984
+<a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0001-8081-5984" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> https://orcid.org/0009-0001-8081-5984
 </a>
 
 - 🔭 I’m currently working on ***New Particle Formation and Ozone Pollution***.
 - 🌱 I’m currently learning ***WRF-Chem and Python***.
 - 📫 How to reach me: xuyf@smail.nju.edu.cn
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=ambient_gradient)
+<p align = "center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xuyf-web&theme=radical" alt="GitHub Streak" /></a>
+</p>
+
+<p align = "center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=xuyf-web&theme=onedark&title=-PullRequest,-Reviews" /></a>
+</p>
+
+<!-- find themes on https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<p align = "center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=calm_pink" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xuyf-web&repo=MyFunctions&width=200&theme=calm_pink&show_owner=true" />
+    </a>
+</p>
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align = "center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact&theme=radical" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuyf-web&size_weight=0.2&count_weight=1&layout=compact&card_width=320&theme=radical" />
+    </a>
+</p>
+
+---
 
 # 🚩 里程碑 Milestones
 <!-- 
@@ -145,3 +179,11 @@ contents ...
 
 <div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202401121751002.png" width = 800 /> </div>
 </details>
+
+<p align = "center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999&center=true&vCenter=true&width=435&lines=Learning+is+a+Lifelong+Wealth." alt="Typing SVG" /></a>
+</p>
+
+<p align = "center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much of the essence of building a program is in fact the debugging of the specification.&author=Fred Brooks&border=true" /></a>
+</p>
