@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <!-- Picture: Hello I'm Evan -->
 <div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202312251523104.png" width = 500 /> </div>
 
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+
 <!-- badge
 https://shields.io/badges
  -->
@@ -180,8 +182,4 @@ contents ...
 
 <p align = "center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999&center=true&vCenter=true&width=435&lines=Learning+is+a+Lifelong+Wealth." alt="Typing SVG" /></a>
-</p>
-
-<p align = "center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much+of+the+essence+of+building+a+program+is+in+fact+the+debugging+of+the+specification.&author=Fred Brooks" /></a>
 </p>
