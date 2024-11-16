@@ -61,10 +61,10 @@ My ORCID
 <!-- find themes on https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align = "center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=calm_pink" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=calm_pink" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xuyf-web&repo=MyFunctions&width=200&theme=calm_pink&show_owner=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuyf-web&size_weight=0.2&count_weight=1&layout=compact&card_width=320&theme=radical" />
     </a>
 </p>
 
@@ -72,11 +72,9 @@ My ORCID
 
 <p align = "center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact&theme=radical" />
+    <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact&theme=radical" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuyf-web&size_weight=0.2&count_weight=1&layout=compact&card_width=320&theme=radical" />
-    </a>
+    
 </p>
 
 ---
@@ -185,5 +183,5 @@ contents ...
 </p>
 
 <p align = "center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much of the essence of building a program is in fact the debugging of the specification.&author=Fred Brooks&border=true" /></a>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Much+of+the+essence+of+building+a+program+is+in+fact+the+debugging+of+the+specification.&author=Fred Brooks&border=true" /></a>
 </p>
