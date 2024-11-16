@@ -49,7 +49,9 @@ My ORCID
 - 🌱 I’m currently learning ***WRF-Chem and Python***.
 - 📫 How to reach me: xuyf@smail.nju.edu.cn
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xuyf-web&theme=radical" alt="GitHub Streak" /></a>
+<p align = "center">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=xuyf-web&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
 
 <p align = "center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
