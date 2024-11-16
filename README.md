@@ -49,22 +49,20 @@ My ORCID
 - 🌱 I’m currently learning ***WRF-Chem and Python***.
 - 📫 How to reach me: xuyf@smail.nju.edu.cn
 
-<p align = "center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xuyf-web&theme=radical" alt="GitHub Streak" /></a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xuyf-web&theme=radical" alt="GitHub Streak" /></a>
 
 <p align = "center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=xuyf-web&theme=onedark&title=-PullRequest,-Reviews" /></a>
+    <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=xuyf-web&theme=onedark&title=-PullRequest" /></a>
 </p>
 
 <!-- find themes on https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align = "center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=calm_pink" />
+    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=calm_pink" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xuyf-web&repo=MyFunctions&width=200&theme=calm_pink&show_owner=true" />
+    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xuyf-web&repo=MyFunctions&width=200&theme=calm_pink&show_owner=true" />
     </a>
 </p>
 
@@ -72,10 +70,10 @@ My ORCID
 
 <p align = "center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact&theme=radical" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuyf-web&size_weight=0.2&count_weight=1&layout=compact&card_width=320&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuyf-web&size_weight=0.2&count_weight=1&layout=compact&card_width=320&theme=radical" />
     </a>
 </p>
 
