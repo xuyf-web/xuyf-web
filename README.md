@@ -183,7 +183,7 @@ contents ...
 <details> 
 <summary><font size="4" color="#ff6666">2024</font></summary>
 
-[微信公众号：亦非笔记](https://mp.weixin.qq.com/s/usovEuONBYfIFJyQ6paM1g])
+[微信公众号：亦非笔记](https://mp.weixin.qq.com/s/usovEuONBYfIFJyQ6paM1g)
 </details>
 
 <p align = "center">
