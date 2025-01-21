@@ -180,6 +180,12 @@ contents ...
 <div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202401121751002.png" width = 800 /> </div>
 </details>
 
+<details> 
+<summary><font size="4" color="#ff6666">2024</font></summary>
+
+[微信公众号：亦非笔记](https://mp.weixin.qq.com/s/usovEuONBYfIFJyQ6paM1g])
+</details>
+
 <p align = "center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999&center=true&vCenter=true&width=435&lines=Learning+is+a+Lifelong+Wealth." alt="Typing SVG" /></a>
 </p>
