@@ -85,6 +85,10 @@ My ORCID
 <!-- 
 记录我取得的一些有意思的进步
  -->
+* `2025-03`
+**一周内做三场组会报告（其中一天做了两场）**
+*Gave three meeting presentations in one week (with two on the same day).*
+
 * `2024-06`
 **组织毕业旅行 & 课题组组团出游【汕头】**
 *Organized graduation trips & a group outing for the team.*
