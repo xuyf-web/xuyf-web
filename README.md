@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **xuyf-web/xuyf-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<h1 style="color:rgb(72, 68, 60); align-items: center;">Welcome to Evan's GitHub ! 🍀</h1>
+
+<!-- Dynamic Emojis -->
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="50" height="50" />  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Red%20Apple.png" alt="Red Apple" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Peacock.png" alt="Peacock" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="50" height="50" />
+</div>
+
+---
 
 <!-- Picture: Hello I'm Evan -->
-<div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202312251523104.png" width = 500 /> </div>
+<!-- <div align="center"> <img src="https://picgo-evan.oss-cn-guangzhou.aliyuncs.com/img/202312251523104.png" width = 500 /> </div> -->
 
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+
+<!-- Skills Emoji -->
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,linux,bash,github,git,blender,vscode,anaconda,vim,gmail,md,obsidian,ps&theme=dark&perline=7)](https://skillicons.dev)
+
+<!-- old Skills Emoji -->
+<!-- <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p> -->
 
 <!-- badge
 https://shields.io/badges
@@ -28,7 +50,7 @@ https://shields.io/badges
     <img src="https://wakatime.com/badge/user/018c774b-c902-4ca7-ade8-ee572ad126a7.svg?style=plastic"/>
     <img src="https://komarev.com/ghpvc/?username=xuyf-web&color=orange&style=plastic"/>
 </p>
-<p align = "center">
+<!-- <p align = "center">
     <img src="https://img.shields.io/badge/Software_&_App-PowerUser-red"/>
     <img src="https://img.shields.io/badge/Tools-Enthusiast-red"/>
     <img src="https://img.shields.io/badge/-Python-blue"/>
@@ -40,7 +62,11 @@ https://shields.io/badges
     <img src="https://img.shields.io/badge/Atmospheric-Sciences-blue"/>
     <img src="https://img.shields.io/badge/Chemical_Transport_Models-WRF_Chem-blue"/>
     <img src="https://img.shields.io/badge/Chemical_Transport_Models-CMAQ-blue"/>
-</p>
+</p> -->
+
+<div style="display: flex; align-items: center;justify-content: center;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" style="width: 80px; height: 80px; margin-right: 30px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" style="width: 80px; height: 80px; margin-right: 30px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="80" style="width: 80px; height: 80px; margin-right: 0px; margin-bottom: 0px;" /></div>
+
+</div>
 
 <!-- ORCID -->
 My ORCID
@@ -51,33 +77,21 @@ My ORCID
 - 🌱 I’m currently learning ***WRF-Chem and Python***.
 - 📫 How to reach me: xuyf@smail.nju.edu.cn
 
-<p align = "center">
+<!-- <p align = "center">
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=xuyf-web&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
+</p> -->
 
-<p align = "center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=xuyf-web&theme=onedark&title=-PullRequest" /></a>
-</p>
+<div style="display: grid; place-items: center; margin: 0">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height="200" src="https://github-profile-trophy.vercel.app/?username=xuyf-web&theme=onedark&title=-PullRequest,-Stars,-Issues,-Reviews">
+  </a>
+</div>
 
-<!-- find themes on https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<p align = "center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=calm_pink" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuyf-web&size_weight=0.2&count_weight=1&layout=compact&card_width=320&theme=radical" />
-    </a>
-</p>
+<div align="center">
+<!-- Stats Words -->
+![Metrics](github-metrics.svg)
+</div>
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<p align = "center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact&theme=radical" />
-    </a>
-    
-</p>
 
 ---
 
@@ -192,4 +206,23 @@ contents ...
 
 <p align = "center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=999&center=true&vCenter=true&width=435&lines=Learning+is+a+Lifelong+Wealth." alt="Typing SVG" /></a>
+</p>
+
+<!-- find themes on https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<p align = "center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=xuyf-web&show_icons=true&theme=calm_pink" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuyf-web&size_weight=0.2&count_weight=1&layout=compact&card_width=320&theme=radical" />
+    </a>
+</p>
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align = "center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xuyfweb&layout=compact&theme=radical" />
+    </a>
+    
 </p>
