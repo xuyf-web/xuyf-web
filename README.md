@@ -81,19 +81,12 @@ My ORCID
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=xuyf-web&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p> -->
 
-<div style="display: grid; place-items: center; margin: 0">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="200" src="https://github-profile-trophy.vercel.app/?username=xuyf-web&theme=onedark&title=-PullRequest,-Stars,-Issues,-Reviews">
-  </a>
-</div>
-
+<p align = "center">
 
 <!-- Stats Words -->
 ![Metrics](github-metrics.svg)
 
-
-
----
+</p>
 
 # 🚩 里程碑 Milestones
 <!-- 
@@ -226,3 +219,9 @@ contents ...
     </a>
     
 </p>
+
+<div style="display: grid; place-items: center; margin: 0">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height="200" src="https://github-profile-trophy.vercel.app/?username=xuyf-web&theme=onedark&title=-PullRequest,-Stars,-Issues,-Reviews">
+  </a>
+</div>
