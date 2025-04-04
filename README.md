@@ -87,10 +87,10 @@ My ORCID
   </a>
 </div>
 
-<div align="center">
+
 <!-- Stats Words -->
 ![Metrics](github-metrics.svg)
-</div>
+
 
 
 ---
