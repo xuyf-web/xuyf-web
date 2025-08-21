@@ -2608,7 +2608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dogodo-cc/chrome-redirect-skipper</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Chrome extension that bypasses redirect warning pages.</div>
@@ -2714,7 +2714,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>syncthing/syncthing</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source Continuous File Synchronization</div>
@@ -2817,7 +2817,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2025, 10:25:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2025, 11:35:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
