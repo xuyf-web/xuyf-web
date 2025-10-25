@@ -2754,7 +2754,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jayfunc/BetterLyrics</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your dynamic lyrics display tool built with WinUI 3 and Win2D - works with local playback and other music players | 使用 WinUI 3 和 Win2D 打造的动态歌词显示工具 - 支持本地播放及其他音乐播放器</div>
@@ -2910,7 +2910,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2025, 11:30:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2025, 12:13:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
