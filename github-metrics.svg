@@ -2580,7 +2580,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>heiehiehi/XinghuisamaBlogs</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">这是一个采用 Next.js 构建的高颜值、毛玻璃（Glassmorphism）风格个人博客系统。本项目自带完善的前端展示与独立的本地后台控制台，支持 Markdown 沉浸式写作、草稿管理以及便捷的图床配置。（新增对移动端适配））</div>
@@ -2633,7 +2633,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Chip-G0202/PaperEcho</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">听见文献回声，找到值得追随的研究线索。基于 Codex 的多学科文献工作流，支持 OpenAlex、PubMed/PMC、RSS 与本地数据，可交付到 Zotero Desktop、Zotero Web 或本地报告。</div>
@@ -2783,7 +2783,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2026, 01:49:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2026, 02:51:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
